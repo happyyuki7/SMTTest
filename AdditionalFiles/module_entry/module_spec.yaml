@@ -16,4 +16,4 @@ implementation:
       - ../src/python/library1
       - ../src/python/library2
       - ../assets/LICENSE
-    command: [python, module_entry/run.py]
+    command: [python, run.py]
